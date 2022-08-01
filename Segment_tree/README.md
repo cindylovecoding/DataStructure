@@ -15,3 +15,4 @@ void build(int l,int r,int index){
   }
 }
 ```
+![image](https://user-images.githubusercontent.com/90430653/182100756-ea218771-7328-4ac2-9b40-24c5aa36c833.png)
